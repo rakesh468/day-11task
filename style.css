@@ -1,0 +1,19 @@
+.good{
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+.edit1{
+margin-left: 130px;
+}
+fieldset{
+    border: 6px solid black;
+}
+
+.color{
+    background-color: red;
+    border: 1px solid black;
+}
+u{
+    color:3px solid black;
+}
